@@ -27,7 +27,7 @@
 hacker = {
     "name"       : "Muhammed Emin Şeker",
     "role"       : "Computer Engineering Student (3rd Year)",
-    "university" : "[ Recep Tayyip Erdogan University ]",
+    "university" : "[ Üniversite adın ]",
     "focus"      : ["Offensive Security", "Penetration Testing", "CTF"],
     "achievement": "Siber Vatan 2026 — Semi-Finalist 🏆",
     "currently"  : "Building security tools with Python",
