@@ -14,8 +14,8 @@
 **Computer Engineering Student | Offensive Security Enthusiast**
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat-square&logo=tryhackme)](https://tryhackme.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-green?style=flat-square&logo=gmail)](mailto:mail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/muhammed-emin-%C5%9Feker-b94937333/))
+[![Email](https://img.shields.io/badge/Email-Contact-green?style=flat-square&logo=gmail)](muhammedeminsekerr@gmail.com)
 
 </div>
 
@@ -27,7 +27,7 @@
 hacker = {
     "name"       : "Muhammed Emin Şeker",
     "role"       : "Computer Engineering Student (3rd Year)",
-    "university" : "[ Üniversite adın ]",
+    "university" : "[ Recep Tayyip Erdogan University ]",
     "focus"      : ["Offensive Security", "Penetration Testing", "CTF"],
     "achievement": "Siber Vatan 2026 — Semi-Finalist 🏆",
     "currently"  : "Building security tools with Python",
